@@ -9,6 +9,11 @@ main {
     border-top-right-radius: 2.3rem;
 }
 
+main > div {
+    align-items: center;
+    justify-items: center;
+}
+
 main > div p {
     background-color: #ddd;
     border-radius: 42%;

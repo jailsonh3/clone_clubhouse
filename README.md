@@ -1,7 +1,7 @@
-# Um clone do app Club House
+# Um Clone do App ClubHouse
 
-## Demostration
-<img src="https://blogdoiphone.com/wp-content/uploads/2021/02/Clubhouse_telas.png" alt="clone-clubhouse">
+## Demonstration
+<img src="./assets/clone-app.png" alt="clone-clubhouse">
 
 ## Techs
 * [ ] HTML
